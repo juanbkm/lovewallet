@@ -1,0 +1,72 @@
+<head>
+  {{ $title := print .Title " | " .Site.Title }} {{ if .IsHome }}{{ $title =
+    .Site.Title }}{{ end }}
+  {{$section := .Section}}
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<base href="{{ .Site.BaseURL }}" />
+
+  <meta name="author" content="{{ .Site.Params.author }}" />
+  <meta name="description" content="{{ with .Page.Params.description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}" />
+
+  {{ with .Keywords }}
+  <meta
+    name="keywords"
+    content="{{ range $i, $e := . }}{{ if $i }} {{ end }}{{ $e }}{{ end }}"
+  />
+  {{ end }}
+
+  <meta name="revised" content="" />
+  <link rel="canonical" href="{{ .Site.BaseURL }}" />
+  <link rel="shortlink" href="{{ .Site.BaseURL }}" />
+  <link rel="publisher" href="{{ .Site.BaseURL }}" />
+
+  <meta name="original-source" content="{{ .Permalink }}" />
+  <meta property="og:title" content="{{ $title }}" />
+  <meta property="og:site_name" content="{{ .Site.Params.author }}" />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="{{ .Permalink }}" />
+  <meta
+    property="og:image"
+    content="{{ .Site.BaseURL }}{{ with .Page.Params.ogimage }}{{ . }}{{ else }}{{ .Site.Params.ogimage }}{{ end }}"
+  />
+  <meta property="og:description" content="{{ with .Page.Params.description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}" />
+  <meta property="og:image:type" content="image/jpeg" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:creator" content="" />
+  <meta name="twitter:url" content="{{ .Permalink }}" />
+  <meta name="twitter:title" content="{{ $title }}" />
+  <meta
+    name="twitter:image"
+    content="{{ .Site.BaseURL }}{{ with .Page.Params.ogimage }}{{ . }}{{ else }}{{ .Site.Params.ogimage }}{{ end }}"
+  />
+  <meta name="twitter:description" content="{{ with .Page.Params.description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}" />
+
+	<!-- Stylesheets
+	============================================= -->
+	<link href="https://fonts.googleapis.com/css?family=Lato:300,400,400i,700|Poppins:300,400,500,600,700|PT+Serif:400,400i&display=swap" rel="stylesheet" type="text/css" />
+	<link rel="stylesheet" href="{{ `css/bootstrap.css` | relURL }}" type="text/css" />
+	<link rel="stylesheet" href="{{ `style.css` | relURL }}?{{ time "2016-05-28" }}" type="text/css" />
+  
+	<!-- One Page Module Specific Stylesheet -->
+	<link rel="stylesheet" href="onepage.css" type="text/css" />
+	<!-- / -->
+
+	<link rel="stylesheet" href="{{ `css/swiper.css` | relURL }}" type="text/css" />
+	<link rel="stylesheet" href="{{ `css/font-icons.css` | relURL }}" type="text/css" />
+	<link rel="stylesheet" href="{{ `css/animate.css` | relURL }}" type="text/css" />
+	<link rel="stylesheet" href="{{ `css/magnific-popup.css` | relURL }}" type="text/css" />
+
+	<link rel="stylesheet" href="{{ `css/custom.css` | relURL }}" type="text/css" />
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+
+  {{ if .IsHome }}<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>{{ end }} 
+
+	<!-- Document Title
+	============================================= -->
+	<title>{{ $title }}</title>
+
+</head>
+
+
+
+

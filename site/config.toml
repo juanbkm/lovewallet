@@ -1,3 +1,75 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+# Development server
+#baseURL = "https://juanmagdaraog.com/partnership-report2021/"
+#baseURL = "https://eloquent-jennings-5d791f.netlify.app/"
+baseURL = "https://lovewallet.juanmagdaraog.com/"
+
+# Staging
+# baseURL = "http://adbpublicstg.prod.acquia-sites.com/multimedia/partnership-report2020/"
+
+# Live
+# baseURL = "https://www.adb.org/multimedia/partnership-report2020/"
+
+languageCode = "en-us"
+theme = ""
+title = "Love Wallet PH"
+
+
+[params]
+  # meta data
+  author = ""
+  title = "Love Wallet PH"
+  description = ""
+  keywords = ""
+  ogimage = ""
+
+# Site Menus
+[menu]
+# Navbar Menus
+# [[menu.main]]
+#   identifier = "home"
+#   name = "Home"
+#   url = "/"
+#   weight  = 1
+
+[[menu.main]]
+  identifier = "about"
+  name = "About"
+  url = "section-about"
+  weight  = 1
+
+[[menu.main]]
+identifier = "careers"
+name = "Careers"
+url = "/careers/"
+weight = 2
+
+[[menu.main]]
+identifier = "news"
+name = "News"
+url = "/news/"
+weight = 3
+
+[[menu.main]]
+identifier = "contact-us"
+name = "Contact Us"
+url = "/contact-us/"
+weight = 4
+
+[markup]
+[markup.goldmark]
+[markup.goldmark.extensions]
+definitionList = true
+footnote = true
+linkify = true
+strikethrough = true
+table = true
+taskList = true
+typographer = true
+[markup.goldmark.parser]
+attribute = true
+autoHeadingID = true
+autoHeadingIDType = "github"
+[markup.goldmark.renderer]
+hardWraps = false
+unsafe = true
+xhtml = false

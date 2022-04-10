@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en-US">
+<!-- Head
+	============================================= -->
+{{- partial "head.html" . -}}
+{{$prefix := "pr-"}}{{$section := .Section}}
+
+<body id="{{ if (isset .Params "pageid") }}{{ .Params.pageid }}{{ else }}{{ $prefix }}{{ $section }}{{ end }}" class="stretched">
+
+	<!-- Document Wrapper
+	============================================= -->
+	<div id="wrapper" class="clearfix">
+
+		<!-- Header
+		============================================= -->
+		<header id="header" class="full-header transparent-header header-size-custom" data-sticky-shrink="false" data-mobile-sticky="true">
+			<div id="header-wrap">
+				<div class="container">
+					<div class="header-row justify-content-between">
+
+						<!-- Logo
+						============================================= -->
+						<div id="logo" class="me-lg-3">
+							<a href="{{ .Site.BaseURL }}" class="standard-logo" data-dark-logo="{{ `./images/PR2021_Logo.png` | relURL }}" data-mobile-logo="{{ `./images/PR2021_Logo.png` | relURL }}"><img src="{{ `./images/PR2021_Logo.png` | relURL }}" alt="Asian Development Bank"></a>
+							<a href="index.html" class="retina-logo" data-dark-logo="{{ `./images/PR2021_Logo@2x.png` | relURL }}" data-mobile-logo="{{ `./images/PR2021_Logo@2x.png` | relURL }}"><img src="{{ `./images/PR2021_Logo@2x.png` | relURL }}" alt=""></a>
+						</div><!-- #logo end -->
+
+						<div id="primary-menu-trigger">
+							<svg class="svg-trigger" viewBox="0 0 100 100"><path d="m 30,33 h 40 c 3.722839,0 7.5,3.126468 7.5,8.578427 0,5.451959 -2.727029,8.421573 -7.5,8.421573 h -20"></path><path d="m 30,50 h 40"></path><path d="m 70,67 h -40 c 0,0 -7.5,-0.802118 -7.5,-8.365747 0,-7.563629 7.5,-8.634253 7.5,-8.634253 h 20"></path></svg>
+						</div>
+
+						<div class="header-misc d-none d-sm-block">
+							<div class="d-flex my-lg-3">
+								<a href="#" class="social-icon si-small si-borderless si-facebook">
+									<i class="icon-facebook"></i>
+									<i class="icon-facebook"></i>
+								</a>
+
+								<a href="#" class="social-icon si-small si-borderless si-twitter">
+									<i class="icon-twitter"></i>
+									<i class="icon-twitter"></i>
+								</a>
+
+								<a href="#" class="social-icon si-small si-borderless si-linkedin">
+									<i class="icon-linkedin"></i>
+									<i class="icon-linkedin"></i>
+								</a>
+
+								<a href="#" class="social-icon si-small si-borderless si-youtube">
+									<i class="icon-youtube"></i>
+									<i class="icon-youtube"></i>
+								</a>
+							</div>
+						</div>
+						<!-- Primary Navigation
+						============================================= -->
+						{{- partial "navigation.html" . -}}
+					</div>
+				</div>
+			</div>
+			<div class="header-wrap-clone"></div>
+		</header><!-- #header end -->
+
+		<!-- Homepage Slider
+		============================================= -->
+		{{ if .IsHome }}{{- partial "slider.html" . -}}{{ end }} 
+
+		{{ block "main" . }}
+
+		<!-- The part of the page that begins to differ between templates -->
+
+		{{ end }}
+
+		<!-- Footer
+		============================================= -->
+		{{- partial "footer.html" . -}}
+		<!-- #footer end -->
+	</div><!-- #wrapper end -->
+
+	<!-- Go To Top
+	============================================= -->
+	<div id="gotoTop" class="icon-angle-up"></div>
+
+	<!-- JavaScripts
+	============================================= -->
+	<script src="{{ `js/jquery.js` | relURL }}"></script>
+	<script src="{{ `js/plugins.min.js` | relURL }}"></script>
+
+	<!-- Footer Scripts
+	============================================= -->
+	<script src="{{ `js/functions.js` | relURL }}"></script>
+	<script src="{{ `js/inline-tweets.min.js` | relURL }}"></script>
+
+	{{ if .IsHome }}
+	<script>
+		if (window.netlifyIdentity) {
+			window.netlifyIdentity.on("init", user => {
+			if (!user) {
+				window.netlifyIdentity.on("login", () => {
+				document.location.href = "/admin/";
+				});
+			}
+			});
+		}
+	</script>
+	{{ end }}
+</body>
+</html>
