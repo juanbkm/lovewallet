@@ -1,13 +1,12 @@
 # Development server
-#baseURL = "https://juanmagdaraog.com/partnership-report2021/"
-#baseURL = "https://eloquent-jennings-5d791f.netlify.app/"
-baseURL = "https://lovewallet.juanmagdaraog.com/"
+baseURL = "https://zingy-fairy-e9dd12.netlify.app"
+#baseURL = "https://lovewallet.juanmagdaraog.com/"
 
 # Staging
-# baseURL = "http://adbpublicstg.prod.acquia-sites.com/multimedia/partnership-report2020/"
+# baseURL = ""
 
 # Live
-# baseURL = "https://www.adb.org/multimedia/partnership-report2020/"
+# baseURL = ""
 
 languageCode = "en-us"
 title = "Love Wallet PH"
