@@ -3,7 +3,7 @@
     {{ $currentPage := . }}
     {{ range .Site.Menus.main }}
         {{ if .HasChildren }}
-        <li class="{{if or ($currentPage.IsMenuCurrent `main` .) ($currentPage.HasMenuCurrent `main` .) }}sub-menu {{end}}menu-item"><a href="#" class="menu-link" data-href="#{{ .URL }}" title="{{ .Title }}"><div>{{ .Name }}</div></a>
+        <li class="{{if or ($currentPage.IsMenuCurrent `main` .) ($currentPage.HasMenuCurrent `main` .) }}sub-menu {{end}}menu-item"><a href="{{ .URL }}" class="menu-link" title="{{ .Title }}"><div>{{ .Name }}</div></a>
             <ul class="sub-menu-container">
             {{ range .Children }}
                 <li class="menu-item"><a href="{{ .URL }}"  class="menu-link" title="{{ .Title }}"><div>{{ .Name | markdownify }}</div></a></li>
@@ -11,7 +11,7 @@
             </ul>
         </li>
         {{ else }}
-        <li class="{{if or ($currentPage.IsMenuCurrent `main` .) ($currentPage.HasMenuCurrent `main` .) }}{{end}}menu-item"><a href="#"  class="menu-link" data-href="#{{ .URL }}" title="{{ .Title }}"><div>{{ .Name }}</div></a></li>
+        <li class="{{if or ($currentPage.IsMenuCurrent `main` .) ($currentPage.HasMenuCurrent `main` .) }}{{end}}menu-item"><a href="#"  class="menu-link" data-scrollto="#section-about" title="{{ .Title }}"><div>{{ .Name }}</div></a></li>
         
         {{ end }}
     {{ end }}
