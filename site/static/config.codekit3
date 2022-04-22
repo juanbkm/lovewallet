@@ -902,6 +902,32 @@
       "oF" : 0,
       "pg" : 0
     },
+    "\/images\/arrows.png" : {
+      "ft" : 32768,
+      "iS" : 26240,
+      "oA" : 0,
+      "oAP" : "\/images\/arrows.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/images\/iphone-12.png" : {
+      "ft" : 32768,
+      "iS" : 427025,
+      "oA" : 0,
+      "oAP" : "\/images\/iphone-12.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/images\/logo.png" : {
       "ft" : 32768,
       "iS" : 3017,

@@ -12835,6 +12835,32 @@ body:not(.stretched) .slider-parallax .slider-inner {
   width: 100% !important;
   height: auto !important; }
 
+.love-slider {
+  position: relative;
+  height: 100%;
+  display: flex; }
+  .love-slider .slider-caption, .love-slider .flex-caption {
+    position: relative;
+    display: -ms-flexbox;
+    display: flex;
+    height: 100%;
+    flex-flow: column;
+    justify-content: center;
+    z-index: 20;
+    max-width: 550px;
+    font-size: 300;
+    font-weight: 300;
+    transition: top 0.3s ease; }
+  .love-slider .slider-caption h2, .love-slider .slider-caption .h2 {
+    color: #DA1A5E;
+    font-weight: 300;
+    margin-bottom: 1rem; }
+  .love-slider .slider-image {
+    width: 50%;
+    position: absolute;
+    top: 10%;
+    right: 0; }
+
 /* ----------------------------------------------------------------
 
 	pagetitle.scss
