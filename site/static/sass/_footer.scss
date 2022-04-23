@@ -22,6 +22,12 @@
 	a {
 		color: #ffffff;
 	}
+	.talk {
+		display: inline-block;
+		vertical-align: top;
+		margin-top: 3px;
+		margin-right: 5px;
+	}
 }
 
 @if $footer-sticky-global {

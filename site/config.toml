@@ -6,7 +6,7 @@ baseURL = "https://zingy-fairy-e9dd12.netlify.app"
 # baseURL = ""
 
 # Live
-# baseURL = ""
+# baseURL = "https://lovewallet.ph/"
 
 languageCode = "en-us"
 title = "Love Wallet PH"
