@@ -147,8 +147,8 @@ $spacers: map-merge(
 
 //-------------------- Font Families --------------------//
 
-$body-font:                     		'Lato', sans-serif;
-$heading-font:                  		'Poppins', sans-serif;
+$body-font:                     		'Roboto Condensed', sans-serif;
+$heading-font:                  		'Roboto Condensed', sans-serif;
 $secondary-font:                		'PT Serif', serif;
 
 
@@ -1050,7 +1050,7 @@ $switch-toggle-active-bg:				$theme-color;
 //-------------------- Footers --------------------//
 
 
-$footer-bg:								darken($body-bg, 6.67%);
+$footer-bg:								#72042a;
 $footer-bg-dark:						darken($body-bg-dark, 1.96%);
 
 $copyrights-font-size:					$font-size-h5;

@@ -6,7 +6,7 @@ baseURL = "https://zingy-fairy-e9dd12.netlify.app"
 # baseURL = ""
 
 # Live
-# baseURL = "https://lovewallet.ph/"
+#baseURL = "https://lovewallet.ph/"
 
 languageCode = "en-us"
 title = "Love Wallet PH"
@@ -30,28 +30,28 @@ title = "Love Wallet PH"
 #   weight  = 1
 
 [[menu.main]]
-  identifier = "about"
-  name = "About"
-  url = "section-about"
-  weight  = 1
+identifier = "about"
+name = "About"
+url = "section-about"
+weight  = 1
 
-[[menu.main]]
-identifier = "careers"
-name = "Careers"
-url = "/careers/"
-weight = 2
+# [[menu.main]]
+# identifier = "careers"
+# name = "Careers"
+# url = "/careers/"
+# weight = 2
 
-[[menu.main]]
-identifier = "news"
-name = "News"
-url = "/news/"
-weight = 3
+# [[menu.main]]
+# identifier = "news"
+# name = "News"
+# url = "/news/"
+# weight = 3
 
 [[menu.main]]
 identifier = "contact"
 name = "Contact Us"
-url = "/contact/"
-weight = 4
+url = "section-contact"
+weight = 2
 
 [markup]
 [markup.goldmark]

@@ -11,7 +11,7 @@
             </ul>
         </li>
         {{ else }}
-        <li class="{{if or ($currentPage.IsMenuCurrent `main` .) ($currentPage.HasMenuCurrent `main` .) }}{{end}}menu-item"><a href="#"  class="menu-link" data-scrollto="#section-about" title="{{ .Title }}"><div>{{ .Name }}</div></a></li>
+        <li class="{{if or ($currentPage.IsMenuCurrent `main` .) ($currentPage.HasMenuCurrent `main` .) }}{{end}}menu-item"><a href="#"  class="menu-link" data-scrollto="#{{.URL}}" title="{{ .Title }}"><div>{{ .Name }}</div></a></li>
         
         {{ end }}
     {{ end }}

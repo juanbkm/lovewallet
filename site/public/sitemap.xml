@@ -2,10 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://lovewallet.juanmagdaraog.com/categories/</loc>
+    <loc>https://lovewallet.ph/contact/</loc>
+    <lastmod>2022-04-18T20:36:07+08:00</lastmod>
   </url><url>
-    <loc>https://lovewallet.juanmagdaraog.com/</loc>
+    <loc>https://lovewallet.ph/</loc>
+    <lastmod>2022-04-18T20:36:07+08:00</lastmod>
   </url><url>
-    <loc>https://lovewallet.juanmagdaraog.com/tags/</loc>
+    <loc>https://lovewallet.ph/news/</loc>
+    <lastmod>2022-04-18T20:35:48+08:00</lastmod>
+  </url><url>
+    <loc>https://lovewallet.ph/careers/</loc>
+    <lastmod>2022-04-18T20:35:17+08:00</lastmod>
+  </url><url>
+    <loc>https://lovewallet.ph/about/</loc>
+    <lastmod>2022-04-18T20:34:43+08:00</lastmod>
+  </url><url>
+    <loc>https://lovewallet.ph/categories/</loc>
+  </url><url>
+    <loc>https://lovewallet.ph/tags/</loc>
   </url>
 </urlset>

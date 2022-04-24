@@ -902,6 +902,110 @@
       "oF" : 0,
       "pg" : 0
     },
+    "\/images\/arrows.png" : {
+      "ft" : 32768,
+      "iS" : 26240,
+      "oA" : 0,
+      "oAP" : "\/images\/arrows.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/images\/bg-love-community.jpg" : {
+      "ft" : 16384,
+      "iS" : 250656,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/images\/bg-love-community.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/images\/bg-love-family.jpg" : {
+      "ft" : 16384,
+      "iS" : 251251,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/images\/bg-love-family.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/images\/bg-love-god.jpg" : {
+      "ft" : 16384,
+      "iS" : 215597,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/images\/bg-love-god.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/images\/bg-love-partner.jpg" : {
+      "ft" : 16384,
+      "iS" : 126908,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/images\/bg-love-partner.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/images\/iphone-12.png" : {
+      "ft" : 32768,
+      "iS" : 427025,
+      "oA" : 0,
+      "oAP" : "\/images\/iphone-12.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/images\/logo-t.png" : {
+      "ft" : 32768,
+      "iS" : 5873,
+      "oA" : 0,
+      "oAP" : "\/images\/logo-t.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/images\/logo-t@2x.png" : {
+      "ft" : 32768,
+      "iS" : 9241,
+      "oA" : 0,
+      "oAP" : "\/images\/logo-t@2x.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/images\/logo.png" : {
       "ft" : 32768,
       "iS" : 3017,
@@ -986,7 +1090,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/sass\/_content.scss" : {
       "aP" : 0,
@@ -1001,7 +1105,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/sass\/_dark.scss" : {
       "aP" : 0,
@@ -1016,7 +1120,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/sass\/_events.scss" : {
       "aP" : 0,
@@ -1031,7 +1135,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/sass\/_extras.scss" : {
       "aP" : 0,
@@ -1046,7 +1150,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/sass\/_footer.scss" : {
       "aP" : 0,
@@ -1061,7 +1165,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/sass\/_forms.scss" : {
       "aP" : 0,
@@ -1076,7 +1180,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/sass\/_header.scss" : {
       "aP" : 0,
@@ -1091,7 +1195,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/sass\/_layouts.scss" : {
       "aP" : 0,
@@ -1106,7 +1210,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/sass\/_mixins.scss" : {
       "aP" : 0,
@@ -1121,7 +1225,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/sass\/_page-loaders.scss" : {
       "aP" : 0,
@@ -1136,7 +1240,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/sass\/_pagetitle.scss" : {
       "aP" : 0,
@@ -1151,7 +1255,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/sass\/_paginations.scss" : {
       "aP" : 0,
@@ -1166,7 +1270,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/sass\/_patterns.scss" : {
       "aP" : 0,
@@ -1181,7 +1285,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/sass\/_portfolio.scss" : {
       "aP" : 0,
@@ -1196,7 +1300,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/sass\/_shop.scss" : {
       "aP" : 0,
@@ -1211,7 +1315,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/sass\/_shortcodes.scss" : {
       "aP" : 0,
@@ -1226,7 +1330,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/sass\/_sliders.scss" : {
       "aP" : 0,
@@ -1241,7 +1345,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/sass\/_style-rtl.scss" : {
       "aP" : 0,
@@ -1256,7 +1360,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/sass\/_topbar.scss" : {
       "aP" : 0,
@@ -1271,7 +1375,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/sass\/_typography.scss" : {
       "aP" : 0,
@@ -1286,7 +1390,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/sass\/_utilities.scss" : {
       "aP" : 0,
@@ -1301,7 +1405,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/sass\/_variables.scss" : {
       "aP" : 0,
@@ -1316,7 +1420,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/sass\/_widgets.scss" : {
       "aP" : 0,
@@ -1331,7 +1435,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/sass\/bootstrap\/_accordion.scss" : {
       "aP" : 0,
@@ -1346,7 +1450,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/sass\/bootstrap\/_alert.scss" : {
       "aP" : 0,
@@ -1361,7 +1465,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/sass\/bootstrap\/_badge.scss" : {
       "aP" : 0,
@@ -1376,7 +1480,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/sass\/bootstrap\/_breadcrumb.scss" : {
       "aP" : 0,
@@ -1391,7 +1495,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/sass\/bootstrap\/_button-group.scss" : {
       "aP" : 0,
@@ -1406,7 +1510,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/sass\/bootstrap\/_buttons.scss" : {
       "aP" : 0,
@@ -1421,7 +1525,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/sass\/bootstrap\/_card.scss" : {
       "aP" : 0,
@@ -1436,7 +1540,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/sass\/bootstrap\/_carousel.scss" : {
       "aP" : 0,
@@ -1451,7 +1555,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/sass\/bootstrap\/_close.scss" : {
       "aP" : 0,
@@ -1466,7 +1570,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/sass\/bootstrap\/_containers.scss" : {
       "aP" : 0,
@@ -1481,7 +1585,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/sass\/bootstrap\/_dropdown.scss" : {
       "aP" : 0,
@@ -1496,7 +1600,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/sass\/bootstrap\/_forms.scss" : {
       "aP" : 0,
@@ -1511,7 +1615,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/sass\/bootstrap\/_functions.scss" : {
       "aP" : 0,
@@ -1526,7 +1630,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/sass\/bootstrap\/_grid.scss" : {
       "aP" : 0,
@@ -1541,7 +1645,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/sass\/bootstrap\/_helpers.scss" : {
       "aP" : 0,
@@ -1556,7 +1660,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/sass\/bootstrap\/_images.scss" : {
       "aP" : 0,
@@ -1571,7 +1675,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/sass\/bootstrap\/_list-group.scss" : {
       "aP" : 0,
@@ -1586,7 +1690,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/sass\/bootstrap\/_mixins.scss" : {
       "aP" : 0,
@@ -1601,7 +1705,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/sass\/bootstrap\/_modal.scss" : {
       "aP" : 0,
@@ -1616,7 +1720,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/sass\/bootstrap\/_nav.scss" : {
       "aP" : 0,
@@ -1631,7 +1735,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/sass\/bootstrap\/_navbar.scss" : {
       "aP" : 0,
@@ -1646,7 +1750,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/sass\/bootstrap\/_offcanvas.scss" : {
       "aP" : 0,
@@ -1661,7 +1765,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/sass\/bootstrap\/_pagination.scss" : {
       "aP" : 0,
@@ -1676,7 +1780,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/sass\/bootstrap\/_placeholders.scss" : {
       "aP" : 0,
@@ -1691,7 +1795,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/sass\/bootstrap\/_popover.scss" : {
       "aP" : 0,
@@ -1706,7 +1810,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/sass\/bootstrap\/_progress.scss" : {
       "aP" : 0,
@@ -1721,7 +1825,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/sass\/bootstrap\/_reboot.scss" : {
       "aP" : 0,
@@ -1736,7 +1840,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/sass\/bootstrap\/_root.scss" : {
       "aP" : 0,
@@ -1751,7 +1855,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/sass\/bootstrap\/_spinners.scss" : {
       "aP" : 0,
@@ -1766,7 +1870,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/sass\/bootstrap\/_tables.scss" : {
       "aP" : 0,
@@ -1781,7 +1885,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/sass\/bootstrap\/_toasts.scss" : {
       "aP" : 0,
@@ -1796,7 +1900,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/sass\/bootstrap\/_tooltip.scss" : {
       "aP" : 0,
@@ -1811,7 +1915,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/sass\/bootstrap\/_transitions.scss" : {
       "aP" : 0,
@@ -1826,7 +1930,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/sass\/bootstrap\/_type.scss" : {
       "aP" : 0,
@@ -1841,7 +1945,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/sass\/bootstrap\/_utilities.scss" : {
       "aP" : 0,
@@ -1856,7 +1960,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/sass\/bootstrap\/_variables.scss" : {
       "aP" : 0,
@@ -1871,7 +1975,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/sass\/bootstrap\/bootstrap-grid.scss" : {
       "aP" : 0,
@@ -1886,7 +1990,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/sass\/bootstrap\/bootstrap-reboot.scss" : {
       "aP" : 0,
@@ -1901,7 +2005,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/sass\/bootstrap\/bootstrap-utilities.scss" : {
       "aP" : 0,
@@ -1916,7 +2020,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/sass\/bootstrap\/bootstrap.scss" : {
       "aP" : 0,
@@ -1931,7 +2035,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/sass\/bootstrap\/forms\/_floating-labels.scss" : {
       "aP" : 0,
@@ -1946,7 +2050,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/sass\/bootstrap\/forms\/_form-check.scss" : {
       "aP" : 0,
@@ -1961,7 +2065,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/sass\/bootstrap\/forms\/_form-control.scss" : {
       "aP" : 0,
@@ -1976,7 +2080,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/sass\/bootstrap\/forms\/_form-range.scss" : {
       "aP" : 0,
@@ -1991,7 +2095,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/sass\/bootstrap\/forms\/_form-select.scss" : {
       "aP" : 0,
@@ -2006,7 +2110,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/sass\/bootstrap\/forms\/_form-text.scss" : {
       "aP" : 0,
@@ -2021,7 +2125,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/sass\/bootstrap\/forms\/_input-group.scss" : {
       "aP" : 0,
@@ -2036,7 +2140,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/sass\/bootstrap\/forms\/_labels.scss" : {
       "aP" : 0,
@@ -2051,7 +2155,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/sass\/bootstrap\/forms\/_validation.scss" : {
       "aP" : 0,
@@ -2066,7 +2170,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/sass\/bootstrap\/helpers\/_clearfix.scss" : {
       "aP" : 0,
@@ -2081,7 +2185,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/sass\/bootstrap\/helpers\/_colored-links.scss" : {
       "aP" : 0,
@@ -2096,7 +2200,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/sass\/bootstrap\/helpers\/_position.scss" : {
       "aP" : 0,
@@ -2111,7 +2215,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/sass\/bootstrap\/helpers\/_ratio.scss" : {
       "aP" : 0,
@@ -2126,7 +2230,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/sass\/bootstrap\/helpers\/_stacks.scss" : {
       "aP" : 0,
@@ -2141,7 +2245,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/sass\/bootstrap\/helpers\/_stretched-link.scss" : {
       "aP" : 0,
@@ -2156,7 +2260,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/sass\/bootstrap\/helpers\/_text-truncation.scss" : {
       "aP" : 0,
@@ -2171,7 +2275,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/sass\/bootstrap\/helpers\/_visually-hidden.scss" : {
       "aP" : 0,
@@ -2186,7 +2290,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/sass\/bootstrap\/helpers\/_vr.scss" : {
       "aP" : 0,
@@ -2201,7 +2305,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/sass\/bootstrap\/mixins\/_alert.scss" : {
       "aP" : 0,
@@ -2216,7 +2320,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/sass\/bootstrap\/mixins\/_backdrop.scss" : {
       "aP" : 0,
@@ -2231,7 +2335,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/sass\/bootstrap\/mixins\/_border-radius.scss" : {
       "aP" : 0,
@@ -2246,7 +2350,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/sass\/bootstrap\/mixins\/_box-shadow.scss" : {
       "aP" : 0,
@@ -2261,7 +2365,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/sass\/bootstrap\/mixins\/_breakpoints.scss" : {
       "aP" : 0,
@@ -2276,7 +2380,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/sass\/bootstrap\/mixins\/_buttons.scss" : {
       "aP" : 0,
@@ -2291,7 +2395,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/sass\/bootstrap\/mixins\/_caret.scss" : {
       "aP" : 0,
@@ -2306,7 +2410,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/sass\/bootstrap\/mixins\/_clearfix.scss" : {
       "aP" : 0,
@@ -2321,7 +2425,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/sass\/bootstrap\/mixins\/_color-scheme.scss" : {
       "aP" : 0,
@@ -2336,7 +2440,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/sass\/bootstrap\/mixins\/_container.scss" : {
       "aP" : 0,
@@ -2351,7 +2455,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/sass\/bootstrap\/mixins\/_deprecate.scss" : {
       "aP" : 0,
@@ -2366,7 +2470,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/sass\/bootstrap\/mixins\/_forms.scss" : {
       "aP" : 0,
@@ -2381,7 +2485,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/sass\/bootstrap\/mixins\/_gradients.scss" : {
       "aP" : 0,
@@ -2396,7 +2500,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/sass\/bootstrap\/mixins\/_grid.scss" : {
       "aP" : 0,
@@ -2411,7 +2515,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/sass\/bootstrap\/mixins\/_image.scss" : {
       "aP" : 0,
@@ -2426,7 +2530,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/sass\/bootstrap\/mixins\/_list-group.scss" : {
       "aP" : 0,
@@ -2441,7 +2545,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/sass\/bootstrap\/mixins\/_lists.scss" : {
       "aP" : 0,
@@ -2456,7 +2560,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/sass\/bootstrap\/mixins\/_pagination.scss" : {
       "aP" : 0,
@@ -2471,7 +2575,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/sass\/bootstrap\/mixins\/_reset-text.scss" : {
       "aP" : 0,
@@ -2486,7 +2590,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/sass\/bootstrap\/mixins\/_resize.scss" : {
       "aP" : 0,
@@ -2501,7 +2605,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/sass\/bootstrap\/mixins\/_table-variants.scss" : {
       "aP" : 0,
@@ -2516,7 +2620,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/sass\/bootstrap\/mixins\/_text-truncate.scss" : {
       "aP" : 0,
@@ -2531,7 +2635,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/sass\/bootstrap\/mixins\/_transition.scss" : {
       "aP" : 0,
@@ -2546,7 +2650,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/sass\/bootstrap\/mixins\/_utilities.scss" : {
       "aP" : 0,
@@ -2561,7 +2665,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/sass\/bootstrap\/mixins\/_visually-hidden.scss" : {
       "aP" : 0,
@@ -2576,7 +2680,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/sass\/bootstrap\/utilities\/_api.scss" : {
       "aP" : 0,
@@ -2591,7 +2695,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/sass\/bootstrap\/vendor\/_rfs.scss" : {
       "aP" : 0,
@@ -2606,7 +2710,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/sass\/shortcodes\/_alerts.scss" : {
       "aP" : 0,
@@ -2621,7 +2725,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/sass\/shortcodes\/_buttons.scss" : {
       "aP" : 0,
@@ -2636,7 +2740,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/sass\/shortcodes\/_carousel.scss" : {
       "aP" : 0,
@@ -2651,7 +2755,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/sass\/shortcodes\/_clients.scss" : {
       "aP" : 0,
@@ -2666,7 +2770,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/sass\/shortcodes\/_countdown.scss" : {
       "aP" : 0,
@@ -2681,7 +2785,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/sass\/shortcodes\/_counter-skills.scss" : {
       "aP" : 0,
@@ -2696,7 +2800,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/sass\/shortcodes\/_dividers.scss" : {
       "aP" : 0,
@@ -2711,7 +2815,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/sass\/shortcodes\/_faqs.scss" : {
       "aP" : 0,
@@ -2726,7 +2830,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/sass\/shortcodes\/_feature-box.scss" : {
       "aP" : 0,
@@ -2741,7 +2845,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/sass\/shortcodes\/_flipcard.scss" : {
       "aP" : 0,
@@ -2756,7 +2860,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/sass\/shortcodes\/_headings.scss" : {
       "aP" : 0,
@@ -2771,7 +2875,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/sass\/shortcodes\/_misc.scss" : {
       "aP" : 0,
@@ -2786,7 +2890,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/sass\/shortcodes\/_pricing.scss" : {
       "aP" : 0,
@@ -2801,7 +2905,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/sass\/shortcodes\/_process-steps.scss" : {
       "aP" : 0,
@@ -2816,7 +2920,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/sass\/shortcodes\/_promo.scss" : {
       "aP" : 0,
@@ -2831,7 +2935,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/sass\/shortcodes\/_social-icons.scss" : {
       "aP" : 0,
@@ -2846,7 +2950,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/sass\/shortcodes\/_styled-icons.scss" : {
       "aP" : 0,
@@ -2861,7 +2965,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/sass\/shortcodes\/_tabs.scss" : {
       "aP" : 0,
@@ -2876,7 +2980,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/sass\/shortcodes\/_team.scss" : {
       "aP" : 0,
@@ -2891,7 +2995,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/sass\/shortcodes\/_testimonials.scss" : {
       "aP" : 0,
@@ -2906,7 +3010,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/sass\/shortcodes\/_toggles-accordions.scss" : {
       "aP" : 0,
@@ -2921,7 +3025,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/style.css" : {
       "aP" : 1,
@@ -2956,7 +3060,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     }
   },
   "hooks" : [
@@ -4442,7 +4546,7 @@
       "autoOutputPathReplace1" : "sass",
       "autoOutputPathReplace2" : "css",
       "autoOutputPathStyle" : 0,
-      "compilerType" : 0,
+      "compilerType" : 1,
       "cssoStyle" : 0,
       "decimalPrecision" : 10,
       "emitCharset" : 1,
